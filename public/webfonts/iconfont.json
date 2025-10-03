@@ -1,0 +1,44 @@
+{
+  "id": "5034775",
+  "name": "TEST",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21497136",
+      "name": "新车必备",
+      "font_class": "xinchebibei",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "21497137",
+      "name": "查违章",
+      "font_class": "chaweizhang",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "21497138",
+      "name": "首页",
+      "font_class": "aichegujiabeifen5",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "21497139",
+      "name": "设置",
+      "font_class": "zhuanchezhuanyongbeifen",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "22511018",
+      "name": "极狐角标-01",
+      "font_class": "jihujiaobiao-01",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
